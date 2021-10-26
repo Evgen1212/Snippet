@@ -9,10 +9,7 @@
               <div class="title-header__top"></div>
             </div>
             <div class="link-title__footer"></div>
-            
           </div>
-
-
           <div class="menu-link__title">Title</div>
           <div class="menu-link__icon"><img src="/tlg.svg" alt="" /></div>
           <div class="menu-link__text">Menu text</div>
